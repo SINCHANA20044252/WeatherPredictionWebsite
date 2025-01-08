@@ -1,2 +1,2 @@
 # WeatherPredictionWebsite
-Prdeicting the current weather of the location
+Predicting the current weather of the location
